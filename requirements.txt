@@ -1,0 +1,4 @@
+fasttext==0.9.1
+numpy==1.18.1
+torch==1.4.0
+tqdm==4.46.0
